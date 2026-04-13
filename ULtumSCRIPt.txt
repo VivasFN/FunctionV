@@ -1,10 +1,5 @@
-MAKE SRE TO COPY AND PASTE 
-The code thats under this text into the ULtumSCRIPt.txt
-
-
-
-
-```python #!/usr/bin/env python3
+```python
+#!/usr/bin/env python3
 """
 analytics_pipeline.py
 
@@ -7477,6 +7472,4 @@ if __name__ == "__main__":
 
     elapsed = time.time() - start
     print(f"[INFO] Report generated: {report_path}")
-    print(f"[INFO] Completed in {elapsed:.2f} seconds")
-
-
+    print(f"[INFO] Completed in {elapsed:.2f} seconds ")
